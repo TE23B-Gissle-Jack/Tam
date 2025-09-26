@@ -1,0 +1,14 @@
+C:\Users\jack.gissle\Desktop\Prog tva\Tam\Idiot\bin\Debug\net8.0\Idiot.exe
+C:\Users\jack.gissle\Desktop\Prog tva\Tam\Idiot\bin\Debug\net8.0\Idiot.deps.json
+C:\Users\jack.gissle\Desktop\Prog tva\Tam\Idiot\bin\Debug\net8.0\Idiot.runtimeconfig.json
+C:\Users\jack.gissle\Desktop\Prog tva\Tam\Idiot\bin\Debug\net8.0\Idiot.dll
+C:\Users\jack.gissle\Desktop\Prog tva\Tam\Idiot\bin\Debug\net8.0\Idiot.pdb
+C:\Users\jack.gissle\Desktop\Prog tva\Tam\Idiot\obj\Debug\net8.0\Idiot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jack.gissle\Desktop\Prog tva\Tam\Idiot\obj\Debug\net8.0\Idiot.AssemblyInfoInputs.cache
+C:\Users\jack.gissle\Desktop\Prog tva\Tam\Idiot\obj\Debug\net8.0\Idiot.AssemblyInfo.cs
+C:\Users\jack.gissle\Desktop\Prog tva\Tam\Idiot\obj\Debug\net8.0\Idiot.csproj.CoreCompileInputs.cache
+C:\Users\jack.gissle\Desktop\Prog tva\Tam\Idiot\obj\Debug\net8.0\Idiot.dll
+C:\Users\jack.gissle\Desktop\Prog tva\Tam\Idiot\obj\Debug\net8.0\refint\Idiot.dll
+C:\Users\jack.gissle\Desktop\Prog tva\Tam\Idiot\obj\Debug\net8.0\Idiot.pdb
+C:\Users\jack.gissle\Desktop\Prog tva\Tam\Idiot\obj\Debug\net8.0\Idiot.genruntimeconfig.cache
+C:\Users\jack.gissle\Desktop\Prog tva\Tam\Idiot\obj\Debug\net8.0\ref\Idiot.dll
